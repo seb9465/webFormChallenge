@@ -7,18 +7,28 @@ body {
     font-size:24px;
     font-weight:bold;
     color:white;
+
+    margin-top:2em;
 }
 
 #subText {
     font-size:16px;
     font-weight:normal;
     color:white;
+
+    margin-top:2em;
+}
+
+#interestChoices {
+    margin-left:2em;
 }
 
 #notifText {
     font-size:12px;
     font-weight:normal;
     color:#C23628;
+
+    margin-top:0.5em;
 }
 
 #submitBtn {
