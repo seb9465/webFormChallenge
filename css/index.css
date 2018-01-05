@@ -21,6 +21,12 @@ body {
     color:#C23628;
 }
 
+#submitBtn {
+    font-weight:bold;
+    color:white;
+    background-color:#5c6ac4;
+}
+
 #unsubscribe {
     font-size:12px;
     font-weight:normal;
