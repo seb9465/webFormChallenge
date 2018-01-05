@@ -14,3 +14,19 @@ body {
     font-weight:normal;
     color:white;
 }
+
+#notifText {
+    font-size:12px;
+    font-weight:normal;
+    color:#C23628;
+}
+
+#unsubscribe {
+    font-size:12px;
+    font-weight:normal;
+    color:#7B7B7B;
+    text-decoration:underline;
+
+    margin-left:50%;
+    margin-right:50%;
+}
